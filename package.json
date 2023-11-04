@@ -1,0 +1,15 @@
+{
+  "name": "software-2.7",
+  "version": "1.0.0",
+  "description": "Refer to the following markdown file for the respective sections of the class:\r - [Self Studies](./studies.md)\r - [Lesson](./lesson.md)\r - [Assignment](./assignment.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
